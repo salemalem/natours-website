@@ -18,5 +18,6 @@
   "homepage": "https://github.com/salemalem/natours-website#readme",
   "devDependencies": {
     "node-sass": "^4.13.1"
-  }
+  },
+  "dependencies": {}
 }
